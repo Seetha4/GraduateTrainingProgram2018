@@ -1,0 +1,22 @@
+-- ProblemSet<00>, JULY <25> <2018>
+-- Submission by <s.c.palanichamy@accenture.com> 
+
+1)Select the Employee with the top three salaries
+
+select Name from Employee where Salary >=(select max(Salary) from Employee where Salary < (Select max(Salary) from Employee where Salary< (Select max(Salary) from Employee))) order by Salary desc;
+TARA CUMMINGS
+PAUL VINCENT
+ADAM WAYNE
+
+ record count-3
+
+2)Select the Employee with the least salary
+
+select * from Employee where Salary=(Select min(Salary) from Employee);
+A111|JOHN HELLEN|D01|15380|A120
+
+record count-1
+
+3)Select the Employee who does not have a manager in the department table
+
+select * from Employee where Manger_id not in(Select E_Id from Employee e inner join Dept d where e.Dep_id=d.Dept_id);
