@@ -1,0 +1,73 @@
+-- ProblemSet<00>, JULY <27> <2018> 
+-- Submission by <s.c.palanichamy@accenture.com>  
+
+1)How does agile testing (development) methodology differ from other testing (development) methodologies?
+
+Other testing methodologies test the software only after the completion of the product. But in agile the whole product is divided into smaller units and each unit is tested after building. So any changes can be corrected at the earlier stage.
+
+2)What are the most important components of Agile?
+
+[1]Epic
+[2]Features
+[3]User story
+[4]Task
+
+3)What is difference between Epic,features, User stories & Tasks?
+
+[1]Epic- is defined as the end product
+[2]Features- set of functionalities that define the business values
+[3]User Story-the basic unit of work to be done in agile
+[4]Task-work units that combine together to make a user story
+
+4)Explain what is a product backlog in Scrum
+
+Product backlog defines the set of work that need to be completed.
+
+5)What is Scrum Sprint?
+
+Sprint is a particular time period within which the scrum team have to deliver a workable software. The time period is usually 2 to 4 weeks.
+
+6)What are the artifacts of Scrum process?
+
+7)What do you understand by sprint backlog?
+
+Sprint backlogs is a set of user stories or task to be completed within that particular sprint.
+
+8)What is the role of the Product Owner?
+
+Product owner is one of the important person in the scrum team. He/She is responsible for monitiring the scrum team to ensure that the best product is deliverd to the user.
+
+9)What are the different roles in Scrum
+
+Scrum master,Product owner, scrum team,Bussiness analyst.
+
+10)What are the responsibilities of a Scrum Master
+
+Srum master is responsible for helping the team with any difficulties from external resources and also guiding the team.
+
+11)What are different ceremonies and their importance in Scrum?
+
+[1]Stand up
+[2]Sprint planning
+[3]Sprint Demo
+[4]Sprint retrospective
+[5]User story growing
+[6]Sprint review
+
+12)What is the difference between Sprint Planning Meeting and Sprint Retrospective Meeting?
+
+[1]Sprint planning- Held at the begining of the sprint to plan on what to be completed in that particular sprint.
+[2]Sprint retrospective- Meeting with the scrum team after the sprint to analyse on what went good, what could have improved and appriciations.
+
+13)What is the difference between agile & scrum
+
+[1]Agile- a set of philosophy for creating values for clients by using some methodologies and constant collaboration.
+[2]Scrum- a methodology using which we can implement or achive agile goals.
+
+14)Explain Agile in 30 seconds.
+ 
+A set of philosophy for creating values for clients by using some methodologies and constant collaboration.
+
+15)What is the Daily Stand-Up?
+
+A 15 minutes meet up with the scrum team where the individuals gives a jist of what they did, what they have planned to do and the difficulties(blockers) they faced. Each member takes up 1 min.
